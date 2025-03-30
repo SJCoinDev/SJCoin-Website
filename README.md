@@ -1,6 +1,6 @@
 # 🚀 SJCoin - St. John XXII Coin 🌍
 
-**SJCoin (Saint John Coin)**, is an unofficial crytocurrency designed and reserved for students and teachers of St. John XXIII High School. This currency was made to mimic the real world of crypto and finances. 🚀
+**SJCoin (St. John Coin), is a decentralized, private and unofficial digital currency created by SJCoin Devs, it's designed to be reserved only for students and staff of St. John XXIII College Prepratory. 🚀
 
 ---
 
